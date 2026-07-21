@@ -26,8 +26,8 @@
 //====================== FIREBASE =======================
 
 
-#define API_KEY       "AIzaSyC8gNlviFOp5phAN8G7INc6WjJQV28Sp14"
-#define DATABASE_URL  "https://samart-attendance-system-default-rtdb.firebaseio.com/"
+#define API_KEY       "YOUR_API_KEY "
+#define DATABASE_URL  "YOUR_DATABASE_URL"
 
 //====================== RFID ===========================
 
