@@ -1,5 +1,12 @@
 # 🎓 Smart Attendance System using ESP32 & Firebase
 
+
+## 🎥 Demo
+
+[![Watch Demo on LinkedIn](https://img.shields.io/badge/Watch%20Demo-LinkedIn-blue?logo=linkedin)](https://lnkd.in/p/gesTCQ4m)
+
+![ESP32 Wi-Fi Scanner](images/Smart%20Attendance%20System-03.jpg)
+
 A professional IoT-based Smart Attendance System developed using ESP32, RFID (RC522), Firebase Realtime Database, and a Web Registration Interface.
 
 This project allows students to register their RFID cards through a web page and automatically records attendance by scanning the RFID card.
