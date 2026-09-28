@@ -1,9 +1,8 @@
 # 🎓 Smart Attendance System using ESP32 & Firebase
 
-
 ## 🎥 Demo
 
-[![Watch Demo on LinkedIn](https://img.shields.io/badge/Watch%20Demo-LinkedIn-blue?logo=linkedin)](https://lnkd.in/p/gesTCQ4m)
+[![Watch Demo on YouTube](https://img.shields.io/badge/Watch%20Demo-YouTube-red?logo=youtube)](https://youtube.com/shorts/akw6QvFf14A?si=_-CcEcdi7M1Qy8N9)
 
 ![ESP32 Wi-Fi Scanner](images/Smart%20Attendance%20System-03.jpg)
 
